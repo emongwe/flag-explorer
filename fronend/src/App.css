@@ -1,0 +1,40 @@
+.App-link {
+  color: #61dafb;
+}
+.country-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Create 4 equal-width columns */
+  gap: 20px; /* Adjust spacing between grid items */
+}
+
+.country-header {
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* Responsive behavior */
+@media (max-width: 768px) {
+.country-grid {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns on smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+.country-grid {
+    grid-template-columns: 1fr; /* 1 column on very small screens */
+  }
+}.country-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}.country-item img {
+  max-width: 100%;
+  height: auto;
+}
