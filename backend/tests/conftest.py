@@ -7,13 +7,17 @@
 # using the pytest framework and are used to create the necessary objects for testing the application.
 #------------------------------------------------------------------------------------------------------#
 
-import pytest
-from ..app import create_app
-from data_access import JsonFileDataSource, RestCountriesAPI
-from services import CountryService
-from controllers import CountryController
-import json
+import sys
 import os
+
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+sys.path.insert(0, project_root)
+
+import pytest
+from country_api.app import create_app
+from country_api.data_access import JsonFileDataSource, RestCountriesAPI
+from country_api.services import CountryService
+from country_api.controllers import CountryController
 
 @pytest.fixture
 def app():

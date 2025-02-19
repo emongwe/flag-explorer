@@ -13,7 +13,7 @@
 import requests
 import json
 import os
-from entities import Country
+from .entities import Country
 
 class CountryService:
     def __init__(self, data_source):

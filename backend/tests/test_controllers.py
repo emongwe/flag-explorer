@@ -9,7 +9,7 @@
 #----------------------------------------------------------------------------------------------------#
 
 import pytest
-from controllers import CountryController
+from ..src.country_api.controllers import CountryController
 from flask import Flask, Blueprint
 import json
 

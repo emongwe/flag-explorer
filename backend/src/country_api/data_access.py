@@ -14,10 +14,10 @@
 import requests
 import json
 import os
-from entities import Country
+from .entities import Country
 
 class RestCountriesAPI: 
-    BASE_URL = "https://restcountries.com/v3.1"
+    BASE_URL = os.getenv("RESTCOUNTRIES_API_URL", "https://restcountries.com/v3.1")
 
     def fetch_all_countries(self):
         try:

@@ -10,9 +10,9 @@
 #----------------------------------------------------------------------------------------------------#
 import logging
 from flask import Flask
-from data_access import JsonFileDataSource, RestCountriesAPI
-from services import CountryService
-from controllers import CountryController, country_bp
+from .data_access import JsonFileDataSource, RestCountriesAPI
+from .services import CountryService
+from .controllers import CountryController, country_bp
 from flask_cors import CORS
 
 def create_app():

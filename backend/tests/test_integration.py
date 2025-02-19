@@ -6,8 +6,8 @@
 import pytest
 import json
 import os
-from app import create_app
-from data_access import JsonFileDataSource
+from ..src.country_api.app import create_app
+from ..src.country_api.data_access import JsonFileDataSource
 
 @pytest.fixture
 def test_client():

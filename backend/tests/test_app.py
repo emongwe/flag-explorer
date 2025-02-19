@@ -7,7 +7,7 @@
 # do not introduce bugs or regressions.
 #-------------------------------------------------------------------------------------------------------#  
 import pytest
-from ..app import app, get_country_data
+from ..src.country_api.app import app, get_country_data
 
 # Test data (for testing)
 test_data = [

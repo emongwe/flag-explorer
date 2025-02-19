@@ -1,0 +1,17 @@
+# pyproject.toml
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "country_api"  # Choose a name for your project
+version = "0.1.0"  # Set a version
+description = "A simple Flask API for exploring country flags"
+dependencies = [
+    "flask",
+    "requests",
+    "pytest",
+    "pytest-mock"
+]
+[tool.pytest.ini_options]
+pythonpath = ["src"]
