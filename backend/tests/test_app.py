@@ -1,5 +1,13 @@
+#-------------------------------------------------------------------------------------------------------#
+# This file contains unit tests and integration tests for the app.py file.  The tests are designed to
+# ensure that the application functions correctly and that the API endpoints return the expected data.
+# The tests cover the main functionality of the application, including getting all countries, getting
+# country details by name, and handling error cases. The tests are an essential part of the application
+# development process, as they help ensure that the application works as expected and that new changes
+# do not introduce bugs or regressions.
+#-------------------------------------------------------------------------------------------------------#  
 import pytest
-from .app import app, get_country_data
+from ..app import app, get_country_data
 
 # Test data (for testing)
 test_data = [
