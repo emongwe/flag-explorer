@@ -8,7 +8,6 @@
 # of the application architecture, as it defines the structure and behavior of the application and
 # how it interacts with the data access and service layers to provide data to the client.
 #----------------------------------------------------------------------------------------------------#
-import logging
 from flask import Flask
 from .models.data_access import JsonFileDataSource, RestCountriesAPI
 from .services.service import CountryService
@@ -18,34 +17,12 @@ from flask_cors import CORS
 def create_app():
     app = Flask(__name__)
     CORS(app)
-
-    # Configure standard logger
-    logger = logging.getLogger('country-api')
-    logger.setLevel(logging.DEBUG)
-
-    # Create file handler
-    file_handler = logging.FileHandler('country-api.log')
-    file_handler.setLevel(logging.DEBUG)
-
-    # Create console handler
-    console_handler = logging.StreamHandler()
-    console_handler.setLevel(logging.DEBUG)
-
-    # Create formatter and add it to the handlers
-    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-    file_handler.setFormatter(formatter)
-    console_handler.setFormatter(formatter)
-
-    # Add handlers to the logger
-    logger.addHandler(file_handler)
-    logger.addHandler(console_handler)
     
     # Dependency Injection
     api_client = RestCountriesAPI()
     data_source = JsonFileDataSource(api_client=api_client)
     country_service = CountryService(data_source)
     country_controller = CountryController(country_service)
-    
     
     # Register Routes (using Flask Blueprint)
     @country_bp.route('/countries', methods=['GET'])

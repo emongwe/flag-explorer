@@ -19,6 +19,14 @@
   color: white;
 }
 
+.country-details{
+  text-align: center;
+  margin-bottom: 20px;
+  min-height: 10vh;
+  align-items: center;
+  justify-content: center;
+}
+
 /* Responsive behavior */
 @media (max-width: 768px) {
 .country-grid {

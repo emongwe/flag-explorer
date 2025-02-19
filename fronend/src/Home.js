@@ -30,8 +30,8 @@ function Home() {
       </div>
       <div className="country-grid">
             {countries.map(country => (
-                <Link key={country.cca2} className="country-item" to={`/country/${country.name.common}`}>
-                <img src={country.flags.png} alt={country.name.common} />
+                <Link key={country.cca2} className="country-item" to={`/country/${country.name}`}>
+                <img src={country.flag} alt={country.name} />
                 </Link>
             ))}
         </div>

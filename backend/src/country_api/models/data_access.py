@@ -72,6 +72,7 @@ class JsonFileDataSource:
         for country_data in raw_data:
             transformed_country = {
                 "name": country_data.get("name", {}).get("common", "N/A"),
+                "cca2": country_data.get("cca2", "N/A"),
                 "flag": country_data.get("flags", {}).get("svg", ""),
                 "population": country_data.get("population", 0),
                 "capital": country_data.get("capital", ["N/A"])[0] if country_data.get("capital") else "N/A",

@@ -1,1500 +1,1750 @@
 [
     {
         "name": "South Georgia",
+        "cca2": "GS",
         "flag": "https://flagcdn.com/gs.svg",
         "population": 30,
         "capital": "King Edward Point"
     },
     {
         "name": "Grenada",
+        "cca2": "GD",
         "flag": "https://flagcdn.com/gd.svg",
         "population": 112519,
         "capital": "St. George's"
     },
     {
         "name": "Switzerland",
+        "cca2": "CH",
         "flag": "https://flagcdn.com/ch.svg",
         "population": 8654622,
         "capital": "Bern"
     },
     {
         "name": "Sierra Leone",
+        "cca2": "SL",
         "flag": "https://flagcdn.com/sl.svg",
         "population": 7976985,
         "capital": "Freetown"
     },
     {
         "name": "Hungary",
+        "cca2": "HU",
         "flag": "https://flagcdn.com/hu.svg",
         "population": 9749763,
         "capital": "Budapest"
     },
     {
         "name": "Taiwan",
+        "cca2": "TW",
         "flag": "https://flagcdn.com/tw.svg",
         "population": 23503349,
         "capital": "Taipei"
     },
     {
         "name": "Wallis and Futuna",
+        "cca2": "WF",
         "flag": "https://flagcdn.com/wf.svg",
         "population": 11750,
         "capital": "Mata-Utu"
     },
     {
         "name": "Barbados",
+        "cca2": "BB",
         "flag": "https://flagcdn.com/bb.svg",
         "population": 287371,
         "capital": "Bridgetown"
     },
     {
         "name": "Pitcairn Islands",
+        "cca2": "PN",
         "flag": "https://flagcdn.com/pn.svg",
         "population": 56,
         "capital": "Adamstown"
     },
     {
         "name": "Ivory Coast",
+        "cca2": "CI",
         "flag": "https://flagcdn.com/ci.svg",
         "population": 26378275,
         "capital": "Yamoussoukro"
     },
     {
         "name": "Tunisia",
+        "cca2": "TN",
         "flag": "https://flagcdn.com/tn.svg",
         "population": 11818618,
         "capital": "Tunis"
     },
     {
         "name": "Italy",
+        "cca2": "IT",
         "flag": "https://flagcdn.com/it.svg",
         "population": 59554023,
         "capital": "Rome"
     },
     {
         "name": "Benin",
+        "cca2": "BJ",
         "flag": "https://flagcdn.com/bj.svg",
         "population": 12123198,
         "capital": "Porto-Novo"
     },
     {
         "name": "Indonesia",
+        "cca2": "ID",
         "flag": "https://flagcdn.com/id.svg",
         "population": 273523621,
         "capital": "Jakarta"
     },
     {
         "name": "Cape Verde",
+        "cca2": "CV",
         "flag": "https://flagcdn.com/cv.svg",
         "population": 555988,
         "capital": "Praia"
     },
     {
         "name": "Saint Kitts and Nevis",
+        "cca2": "KN",
         "flag": "https://flagcdn.com/kn.svg",
         "population": 53192,
         "capital": "Basseterre"
     },
     {
         "name": "Laos",
+        "cca2": "LA",
         "flag": "https://flagcdn.com/la.svg",
         "population": 7275556,
         "capital": "Vientiane"
     },
     {
         "name": "Caribbean Netherlands",
+        "cca2": "BQ",
         "flag": "https://flagcdn.com/bq.svg",
         "population": 25987,
         "capital": "Kralendijk"
     },
     {
         "name": "Uganda",
+        "cca2": "UG",
         "flag": "https://flagcdn.com/ug.svg",
         "population": 45741000,
         "capital": "Kampala"
     },
     {
         "name": "Andorra",
+        "cca2": "AD",
         "flag": "https://flagcdn.com/ad.svg",
         "population": 77265,
         "capital": "Andorra la Vella"
     },
     {
         "name": "Burundi",
+        "cca2": "BI",
         "flag": "https://flagcdn.com/bi.svg",
         "population": 11890781,
         "capital": "Gitega"
     },
     {
         "name": "South Africa",
+        "cca2": "ZA",
         "flag": "https://flagcdn.com/za.svg",
         "population": 59308690,
         "capital": "Pretoria"
     },
     {
         "name": "France",
+        "cca2": "FR",
         "flag": "https://flagcdn.com/fr.svg",
         "population": 67391582,
         "capital": "Paris"
     },
     {
         "name": "Libya",
+        "cca2": "LY",
         "flag": "https://flagcdn.com/ly.svg",
         "population": 6871287,
         "capital": "Tripoli"
     },
     {
         "name": "Mexico",
+        "cca2": "MX",
         "flag": "https://flagcdn.com/mx.svg",
         "population": 128932753,
         "capital": "Mexico City"
     },
     {
         "name": "Gabon",
+        "cca2": "GA",
         "flag": "https://flagcdn.com/ga.svg",
         "population": 2225728,
         "capital": "Libreville"
     },
     {
         "name": "Northern Mariana Islands",
+        "cca2": "MP",
         "flag": "https://flagcdn.com/mp.svg",
         "population": 57557,
         "capital": "Saipan"
     },
     {
         "name": "North Macedonia",
+        "cca2": "MK",
         "flag": "https://flagcdn.com/mk.svg",
         "population": 2077132,
         "capital": "Skopje"
     },
     {
         "name": "China",
+        "cca2": "CN",
         "flag": "https://flagcdn.com/cn.svg",
         "population": 1402112000,
         "capital": "Beijing"
     },
     {
         "name": "Yemen",
+        "cca2": "YE",
         "flag": "https://flagcdn.com/ye.svg",
         "population": 29825968,
         "capital": "Sana'a"
     },
     {
         "name": "Saint Barth\u00e9lemy",
+        "cca2": "BL",
         "flag": "https://flagcdn.com/bl.svg",
         "population": 4255,
         "capital": "Gustavia"
     },
     {
         "name": "Guernsey",
+        "cca2": "GG",
         "flag": "https://flagcdn.com/gg.svg",
         "population": 62999,
         "capital": "St. Peter Port"
     },
     {
         "name": "Solomon Islands",
+        "cca2": "SB",
         "flag": "https://flagcdn.com/sb.svg",
         "population": 686878,
         "capital": "Honiara"
     },
     {
         "name": "Svalbard and Jan Mayen",
+        "cca2": "SJ",
         "flag": "https://flagcdn.com/sj.svg",
         "population": 2562,
         "capital": "Longyearbyen"
     },
     {
         "name": "Faroe Islands",
+        "cca2": "FO",
         "flag": "https://flagcdn.com/fo.svg",
         "population": 48865,
         "capital": "T\u00f3rshavn"
     },
     {
         "name": "Uzbekistan",
+        "cca2": "UZ",
         "flag": "https://flagcdn.com/uz.svg",
         "population": 34232050,
         "capital": "Tashkent"
     },
     {
         "name": "Egypt",
+        "cca2": "EG",
         "flag": "https://flagcdn.com/eg.svg",
         "population": 102334403,
         "capital": "Cairo"
     },
     {
         "name": "Senegal",
+        "cca2": "SN",
         "flag": "https://flagcdn.com/sn.svg",
         "population": 16743930,
         "capital": "Dakar"
     },
     {
         "name": "Sri Lanka",
+        "cca2": "LK",
         "flag": "https://flagcdn.com/lk.svg",
         "population": 21919000,
         "capital": "Sri Jayawardenepura Kotte"
     },
     {
         "name": "Palestine",
+        "cca2": "PS",
         "flag": "https://flagcdn.com/ps.svg",
         "population": 4803269,
         "capital": "Ramallah"
     },
     {
         "name": "Bangladesh",
+        "cca2": "BD",
         "flag": "https://flagcdn.com/bd.svg",
         "population": 164689383,
         "capital": "Dhaka"
     },
     {
         "name": "Peru",
+        "cca2": "PE",
         "flag": "https://flagcdn.com/pe.svg",
         "population": 32971846,
         "capital": "Lima"
     },
     {
         "name": "Singapore",
+        "cca2": "SG",
         "flag": "https://flagcdn.com/sg.svg",
         "population": 5685807,
         "capital": "Singapore"
     },
     {
         "name": "Turkey",
+        "cca2": "TR",
         "flag": "https://flagcdn.com/tr.svg",
         "population": 84339067,
         "capital": "Ankara"
     },
     {
         "name": "Afghanistan",
+        "cca2": "AF",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
         "population": 40218234,
         "capital": "Kabul"
     },
     {
         "name": "Aruba",
+        "cca2": "AW",
         "flag": "https://flagcdn.com/aw.svg",
         "population": 106766,
         "capital": "Oranjestad"
     },
     {
         "name": "Cook Islands",
+        "cca2": "CK",
         "flag": "https://flagcdn.com/ck.svg",
         "population": 18100,
         "capital": "Avarua"
     },
     {
         "name": "United Kingdom",
+        "cca2": "GB",
         "flag": "https://flagcdn.com/gb.svg",
         "population": 67215293,
         "capital": "London"
     },
     {
         "name": "Zambia",
+        "cca2": "ZM",
         "flag": "https://flagcdn.com/zm.svg",
         "population": 18383956,
         "capital": "Lusaka"
     },
     {
         "name": "Finland",
+        "cca2": "FI",
         "flag": "https://flagcdn.com/fi.svg",
         "population": 5530719,
         "capital": "Helsinki"
     },
     {
         "name": "Niger",
+        "cca2": "NE",
         "flag": "https://flagcdn.com/ne.svg",
         "population": 24206636,
         "capital": "Niamey"
     },
     {
         "name": "Christmas Island",
+        "cca2": "CX",
         "flag": "https://flagcdn.com/cx.svg",
         "population": 2072,
         "capital": "Flying Fish Cove"
     },
     {
         "name": "Tokelau",
+        "cca2": "TK",
         "flag": "https://flagcdn.com/tk.svg",
         "population": 1411,
         "capital": "Fakaofo"
     },
     {
         "name": "Guinea-Bissau",
+        "cca2": "GW",
         "flag": "https://flagcdn.com/gw.svg",
         "population": 1967998,
         "capital": "Bissau"
     },
     {
         "name": "Azerbaijan",
+        "cca2": "AZ",
         "flag": "https://flagcdn.com/az.svg",
         "population": 10110116,
         "capital": "Baku"
     },
     {
         "name": "R\u00e9union",
+        "cca2": "RE",
         "flag": "https://flagcdn.com/re.svg",
         "population": 840974,
         "capital": "Saint-Denis"
     },
     {
         "name": "Djibouti",
+        "cca2": "DJ",
         "flag": "https://flagcdn.com/dj.svg",
         "population": 988002,
         "capital": "Djibouti"
     },
     {
         "name": "North Korea",
+        "cca2": "KP",
         "flag": "https://flagcdn.com/kp.svg",
         "population": 25778815,
         "capital": "Pyongyang"
     },
     {
         "name": "Mauritius",
+        "cca2": "MU",
         "flag": "https://flagcdn.com/mu.svg",
         "population": 1265740,
         "capital": "Port Louis"
     },
     {
         "name": "Montserrat",
+        "cca2": "MS",
         "flag": "https://flagcdn.com/ms.svg",
         "population": 4922,
         "capital": "Plymouth"
     },
     {
         "name": "United States Virgin Islands",
+        "cca2": "VI",
         "flag": "https://flagcdn.com/vi.svg",
         "population": 106290,
         "capital": "Charlotte Amalie"
     },
     {
         "name": "Colombia",
+        "cca2": "CO",
         "flag": "https://flagcdn.com/co.svg",
         "population": 50882884,
         "capital": "Bogot\u00e1"
     },
     {
         "name": "Greece",
+        "cca2": "GR",
         "flag": "https://flagcdn.com/gr.svg",
         "population": 10715549,
         "capital": "Athens"
     },
     {
         "name": "Croatia",
+        "cca2": "HR",
         "flag": "https://flagcdn.com/hr.svg",
         "population": 4047200,
         "capital": "Zagreb"
     },
     {
         "name": "Morocco",
+        "cca2": "MA",
         "flag": "https://flagcdn.com/ma.svg",
         "population": 36910558,
         "capital": "Rabat"
     },
     {
         "name": "Algeria",
+        "cca2": "DZ",
         "flag": "https://flagcdn.com/dz.svg",
         "population": 44700000,
         "capital": "Algiers"
     },
     {
         "name": "Antarctica",
+        "cca2": "AQ",
         "flag": "https://flagcdn.com/aq.svg",
         "population": 1000,
         "capital": "N/A"
     },
     {
         "name": "Netherlands",
+        "cca2": "NL",
         "flag": "https://flagcdn.com/nl.svg",
         "population": 16655799,
         "capital": "Amsterdam"
     },
     {
         "name": "Sudan",
+        "cca2": "SD",
         "flag": "https://flagcdn.com/sd.svg",
         "population": 43849269,
         "capital": "Khartoum"
     },
     {
         "name": "Fiji",
+        "cca2": "FJ",
         "flag": "https://flagcdn.com/fj.svg",
         "population": 896444,
         "capital": "Suva"
     },
     {
         "name": "Liechtenstein",
+        "cca2": "LI",
         "flag": "https://flagcdn.com/li.svg",
         "population": 38137,
         "capital": "Vaduz"
     },
     {
         "name": "Nepal",
+        "cca2": "NP",
         "flag": "https://flagcdn.com/np.svg",
         "population": 29136808,
         "capital": "Kathmandu"
     },
     {
         "name": "Puerto Rico",
+        "cca2": "PR",
         "flag": "https://flagcdn.com/pr.svg",
         "population": 3194034,
         "capital": "San Juan"
     },
     {
         "name": "Georgia",
+        "cca2": "GE",
         "flag": "https://flagcdn.com/ge.svg",
         "population": 3714000,
         "capital": "Tbilisi"
     },
     {
         "name": "Pakistan",
+        "cca2": "PK",
         "flag": "https://flagcdn.com/pk.svg",
         "population": 220892331,
         "capital": "Islamabad"
     },
     {
         "name": "Monaco",
+        "cca2": "MC",
         "flag": "https://flagcdn.com/mc.svg",
         "population": 39244,
         "capital": "Monaco"
     },
     {
         "name": "Botswana",
+        "cca2": "BW",
         "flag": "https://flagcdn.com/bw.svg",
         "population": 2351625,
         "capital": "Gaborone"
     },
     {
         "name": "Lebanon",
+        "cca2": "LB",
         "flag": "https://flagcdn.com/lb.svg",
         "population": 6825442,
         "capital": "Beirut"
     },
     {
         "name": "Papua New Guinea",
+        "cca2": "PG",
         "flag": "https://flagcdn.com/pg.svg",
         "population": 8947027,
         "capital": "Port Moresby"
     },
     {
         "name": "Mayotte",
+        "cca2": "YT",
         "flag": "https://flagcdn.com/yt.svg",
         "population": 226915,
         "capital": "Mamoudzou"
     },
     {
         "name": "Dominican Republic",
+        "cca2": "DO",
         "flag": "https://flagcdn.com/do.svg",
         "population": 10847904,
         "capital": "Santo Domingo"
     },
     {
         "name": "Norfolk Island",
+        "cca2": "NF",
         "flag": "https://flagcdn.com/nf.svg",
         "population": 2302,
         "capital": "Kingston"
     },
     {
         "name": "Bouvet Island",
+        "cca2": "BV",
         "flag": "https://flagcdn.com/bv.svg",
         "population": 0,
         "capital": "N/A"
     },
     {
         "name": "Qatar",
+        "cca2": "QA",
         "flag": "https://flagcdn.com/qa.svg",
         "population": 2881060,
         "capital": "Doha"
     },
     {
         "name": "Madagascar",
+        "cca2": "MG",
         "flag": "https://flagcdn.com/mg.svg",
         "population": 27691019,
         "capital": "Antananarivo"
     },
     {
         "name": "India",
+        "cca2": "IN",
         "flag": "https://flagcdn.com/in.svg",
         "population": 1380004385,
         "capital": "New Delhi"
     },
     {
         "name": "Syria",
+        "cca2": "SY",
         "flag": "https://flagcdn.com/sy.svg",
         "population": 17500657,
         "capital": "Damascus"
     },
     {
         "name": "Montenegro",
+        "cca2": "ME",
         "flag": "https://flagcdn.com/me.svg",
         "population": 621718,
         "capital": "Podgorica"
     },
     {
         "name": "Eswatini",
+        "cca2": "SZ",
         "flag": "https://flagcdn.com/sz.svg",
         "population": 1160164,
         "capital": "Mbabane"
     },
     {
         "name": "Paraguay",
+        "cca2": "PY",
         "flag": "https://flagcdn.com/py.svg",
         "population": 7132530,
         "capital": "Asunci\u00f3n"
     },
     {
         "name": "El Salvador",
+        "cca2": "SV",
         "flag": "https://flagcdn.com/sv.svg",
         "population": 6486201,
         "capital": "San Salvador"
     },
     {
         "name": "Ukraine",
+        "cca2": "UA",
         "flag": "https://flagcdn.com/ua.svg",
         "population": 44134693,
         "capital": "Kyiv"
     },
     {
         "name": "Isle of Man",
+        "cca2": "IM",
         "flag": "https://flagcdn.com/im.svg",
         "population": 85032,
         "capital": "Douglas"
     },
     {
         "name": "Namibia",
+        "cca2": "NA",
         "flag": "https://flagcdn.com/na.svg",
         "population": 2540916,
         "capital": "Windhoek"
     },
     {
         "name": "United Arab Emirates",
+        "cca2": "AE",
         "flag": "https://flagcdn.com/ae.svg",
         "population": 9890400,
         "capital": "Abu Dhabi"
     },
     {
         "name": "Bulgaria",
+        "cca2": "BG",
         "flag": "https://flagcdn.com/bg.svg",
         "population": 6927288,
         "capital": "Sofia"
     },
     {
         "name": "Greenland",
+        "cca2": "GL",
         "flag": "https://flagcdn.com/gl.svg",
         "population": 56367,
         "capital": "Nuuk"
     },
     {
         "name": "Germany",
+        "cca2": "DE",
         "flag": "https://flagcdn.com/de.svg",
         "population": 83240525,
         "capital": "Berlin"
     },
     {
         "name": "Cambodia",
+        "cca2": "KH",
         "flag": "https://flagcdn.com/kh.svg",
         "population": 16718971,
         "capital": "Phnom Penh"
     },
     {
         "name": "Iraq",
+        "cca2": "IQ",
         "flag": "https://flagcdn.com/iq.svg",
         "population": 40222503,
         "capital": "Baghdad"
     },
     {
         "name": "French Southern and Antarctic Lands",
+        "cca2": "TF",
         "flag": "https://flagcdn.com/tf.svg",
         "population": 400,
         "capital": "Port-aux-Fran\u00e7ais"
     },
     {
         "name": "Sweden",
+        "cca2": "SE",
         "flag": "https://flagcdn.com/se.svg",
         "population": 10353442,
         "capital": "Stockholm"
     },
     {
         "name": "Cuba",
+        "cca2": "CU",
         "flag": "https://flagcdn.com/cu.svg",
         "population": 11326616,
         "capital": "Havana"
     },
     {
         "name": "Kyrgyzstan",
+        "cca2": "KG",
         "flag": "https://flagcdn.com/kg.svg",
         "population": 6591600,
         "capital": "Bishkek"
     },
     {
         "name": "Russia",
+        "cca2": "RU",
         "flag": "https://flagcdn.com/ru.svg",
         "population": 144104080,
         "capital": "Moscow"
     },
     {
         "name": "Malaysia",
+        "cca2": "MY",
         "flag": "https://flagcdn.com/my.svg",
         "population": 32365998,
         "capital": "Kuala Lumpur"
     },
     {
         "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "cca2": "ST",
         "flag": "https://flagcdn.com/st.svg",
         "population": 219161,
         "capital": "S\u00e3o Tom\u00e9"
     },
     {
         "name": "Cyprus",
+        "cca2": "CY",
         "flag": "https://flagcdn.com/cy.svg",
         "population": 1207361,
         "capital": "Nicosia"
     },
     {
         "name": "Canada",
+        "cca2": "CA",
         "flag": "https://flagcdn.com/ca.svg",
         "population": 38005238,
         "capital": "Ottawa"
     },
     {
         "name": "Malawi",
+        "cca2": "MW",
         "flag": "https://flagcdn.com/mw.svg",
         "population": 19129955,
         "capital": "Lilongwe"
     },
     {
         "name": "Saudi Arabia",
+        "cca2": "SA",
         "flag": "https://flagcdn.com/sa.svg",
         "population": 34813867,
         "capital": "Riyadh"
     },
     {
         "name": "Bosnia and Herzegovina",
+        "cca2": "BA",
         "flag": "https://flagcdn.com/ba.svg",
         "population": 3280815,
         "capital": "Sarajevo"
     },
     {
         "name": "Ethiopia",
+        "cca2": "ET",
         "flag": "https://flagcdn.com/et.svg",
         "population": 114963583,
         "capital": "Addis Ababa"
     },
     {
         "name": "Spain",
+        "cca2": "ES",
         "flag": "https://flagcdn.com/es.svg",
         "population": 47351567,
         "capital": "Madrid"
     },
     {
         "name": "Slovenia",
+        "cca2": "SI",
         "flag": "https://flagcdn.com/si.svg",
         "population": 2100126,
         "capital": "Ljubljana"
     },
     {
         "name": "Oman",
+        "cca2": "OM",
         "flag": "https://flagcdn.com/om.svg",
         "population": 5106622,
         "capital": "Muscat"
     },
     {
         "name": "Saint Pierre and Miquelon",
+        "cca2": "PM",
         "flag": "https://flagcdn.com/pm.svg",
         "population": 6069,
         "capital": "Saint-Pierre"
     },
     {
         "name": "Macau",
+        "cca2": "MO",
         "flag": "https://flagcdn.com/mo.svg",
         "population": 649342,
         "capital": "N/A"
     },
     {
         "name": "San Marino",
+        "cca2": "SM",
         "flag": "https://flagcdn.com/sm.svg",
         "population": 33938,
         "capital": "City of San Marino"
     },
     {
         "name": "Lesotho",
+        "cca2": "LS",
         "flag": "https://flagcdn.com/ls.svg",
         "population": 2142252,
         "capital": "Maseru"
     },
     {
         "name": "Marshall Islands",
+        "cca2": "MH",
         "flag": "https://flagcdn.com/mh.svg",
         "population": 59194,
         "capital": "Majuro"
     },
     {
         "name": "Sint Maarten",
+        "cca2": "SX",
         "flag": "https://flagcdn.com/sx.svg",
         "population": 40812,
         "capital": "Philipsburg"
     },
     {
         "name": "Iceland",
+        "cca2": "IS",
         "flag": "https://flagcdn.com/is.svg",
         "population": 366425,
         "capital": "Reykjavik"
     },
     {
         "name": "Luxembourg",
+        "cca2": "LU",
         "flag": "https://flagcdn.com/lu.svg",
         "population": 632275,
         "capital": "Luxembourg"
     },
     {
         "name": "Argentina",
+        "cca2": "AR",
         "flag": "https://flagcdn.com/ar.svg",
         "population": 45376763,
         "capital": "Buenos Aires"
     },
     {
         "name": "Turks and Caicos Islands",
+        "cca2": "TC",
         "flag": "https://flagcdn.com/tc.svg",
         "population": 38718,
         "capital": "Cockburn Town"
     },
     {
         "name": "Nauru",
+        "cca2": "NR",
         "flag": "https://flagcdn.com/nr.svg",
         "population": 10834,
         "capital": "Yaren"
     },
     {
         "name": "Cocos (Keeling) Islands",
+        "cca2": "CC",
         "flag": "https://flagcdn.com/cc.svg",
         "population": 544,
         "capital": "West Island"
     },
     {
         "name": "Western Sahara",
+        "cca2": "EH",
         "flag": "https://flagcdn.com/eh.svg",
         "population": 510713,
         "capital": "El Aai\u00fan"
     },
     {
         "name": "Dominica",
+        "cca2": "DM",
         "flag": "https://flagcdn.com/dm.svg",
         "population": 71991,
         "capital": "Roseau"
     },
     {
         "name": "Costa Rica",
+        "cca2": "CR",
         "flag": "https://flagcdn.com/cr.svg",
         "population": 5094114,
         "capital": "San Jos\u00e9"
     },
     {
         "name": "Australia",
+        "cca2": "AU",
         "flag": "https://flagcdn.com/au.svg",
         "population": 25687041,
         "capital": "Canberra"
     },
     {
         "name": "Thailand",
+        "cca2": "TH",
         "flag": "https://flagcdn.com/th.svg",
         "population": 69799978,
         "capital": "Bangkok"
     },
     {
         "name": "Haiti",
+        "cca2": "HT",
         "flag": "https://flagcdn.com/ht.svg",
         "population": 11402533,
         "capital": "Port-au-Prince"
     },
     {
         "name": "Tuvalu",
+        "cca2": "TV",
         "flag": "https://flagcdn.com/tv.svg",
         "population": 11792,
         "capital": "Funafuti"
     },
     {
         "name": "Honduras",
+        "cca2": "HN",
         "flag": "https://flagcdn.com/hn.svg",
         "population": 9904608,
         "capital": "Tegucigalpa"
     },
     {
         "name": "Equatorial Guinea",
+        "cca2": "GQ",
         "flag": "https://flagcdn.com/gq.svg",
         "population": 1402985,
         "capital": "Malabo"
     },
     {
         "name": "Saint Lucia",
+        "cca2": "LC",
         "flag": "https://flagcdn.com/lc.svg",
         "population": 183629,
         "capital": "Castries"
     },
     {
         "name": "French Polynesia",
+        "cca2": "PF",
         "flag": "https://flagcdn.com/pf.svg",
         "population": 280904,
         "capital": "Papeet\u0113"
     },
     {
         "name": "Belarus",
+        "cca2": "BY",
         "flag": "https://flagcdn.com/by.svg",
         "population": 9398861,
         "capital": "Minsk"
     },
     {
         "name": "Latvia",
+        "cca2": "LV",
         "flag": "https://flagcdn.com/lv.svg",
         "population": 1901548,
         "capital": "Riga"
     },
     {
         "name": "Palau",
+        "cca2": "PW",
         "flag": "https://flagcdn.com/pw.svg",
         "population": 18092,
         "capital": "Ngerulmud"
     },
     {
         "name": "Guadeloupe",
+        "cca2": "GP",
         "flag": "https://flagcdn.com/gp.svg",
         "population": 400132,
         "capital": "Basse-Terre"
     },
     {
         "name": "Philippines",
+        "cca2": "PH",
         "flag": "https://flagcdn.com/ph.svg",
         "population": 109581085,
         "capital": "Manila"
     },
     {
         "name": "Gibraltar",
+        "cca2": "GI",
         "flag": "https://flagcdn.com/gi.svg",
         "population": 33691,
         "capital": "Gibraltar"
     },
     {
         "name": "Denmark",
+        "cca2": "DK",
         "flag": "https://flagcdn.com/dk.svg",
         "population": 5831404,
         "capital": "Copenhagen"
     },
     {
         "name": "Cameroon",
+        "cca2": "CM",
         "flag": "https://flagcdn.com/cm.svg",
         "population": 26545864,
         "capital": "Yaound\u00e9"
     },
     {
         "name": "Guinea",
+        "cca2": "GN",
         "flag": "https://flagcdn.com/gn.svg",
         "population": 13132792,
         "capital": "Conakry"
     },
     {
         "name": "Bahrain",
+        "cca2": "BH",
         "flag": "https://flagcdn.com/bh.svg",
         "population": 1701583,
         "capital": "Manama"
     },
     {
         "name": "Suriname",
+        "cca2": "SR",
         "flag": "https://flagcdn.com/sr.svg",
         "population": 586634,
         "capital": "Paramaribo"
     },
     {
         "name": "DR Congo",
+        "cca2": "CD",
         "flag": "https://flagcdn.com/cd.svg",
         "population": 108407721,
         "capital": "Kinshasa"
     },
     {
         "name": "Somalia",
+        "cca2": "SO",
         "flag": "https://flagcdn.com/so.svg",
         "population": 15893219,
         "capital": "Mogadishu"
     },
     {
         "name": "Czechia",
+        "cca2": "CZ",
         "flag": "https://flagcdn.com/cz.svg",
         "population": 10698896,
         "capital": "Prague"
     },
     {
         "name": "New Caledonia",
+        "cca2": "NC",
         "flag": "https://flagcdn.com/nc.svg",
         "population": 271960,
         "capital": "Noum\u00e9a"
     },
     {
         "name": "Vanuatu",
+        "cca2": "VU",
         "flag": "https://flagcdn.com/vu.svg",
         "population": 307150,
         "capital": "Port Vila"
     },
     {
         "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "cca2": "SH",
         "flag": "https://flagcdn.com/sh.svg",
         "population": 53192,
         "capital": "Jamestown"
     },
     {
         "name": "Togo",
+        "cca2": "TG",
         "flag": "https://flagcdn.com/tg.svg",
         "population": 8278737,
         "capital": "Lom\u00e9"
     },
     {
         "name": "British Virgin Islands",
+        "cca2": "VG",
         "flag": "https://flagcdn.com/vg.svg",
         "population": 30237,
         "capital": "Road Town"
     },
     {
         "name": "Kenya",
+        "cca2": "KE",
         "flag": "https://flagcdn.com/ke.svg",
         "population": 53771300,
         "capital": "Nairobi"
     },
     {
         "name": "Niue",
+        "cca2": "NU",
         "flag": "https://flagcdn.com/nu.svg",
         "population": 1470,
         "capital": "Alofi"
     },
     {
         "name": "Heard Island and McDonald Islands",
+        "cca2": "HM",
         "flag": "https://flagcdn.com/hm.svg",
         "population": 0,
         "capital": "N/A"
     },
     {
         "name": "Rwanda",
+        "cca2": "RW",
         "flag": "https://flagcdn.com/rw.svg",
         "population": 12952209,
         "capital": "Kigali"
     },
     {
         "name": "Estonia",
+        "cca2": "EE",
         "flag": "https://flagcdn.com/ee.svg",
         "population": 1331057,
         "capital": "Tallinn"
     },
     {
         "name": "Romania",
+        "cca2": "RO",
         "flag": "https://flagcdn.com/ro.svg",
         "population": 19286123,
         "capital": "Bucharest"
     },
     {
         "name": "Trinidad and Tobago",
+        "cca2": "TT",
         "flag": "https://flagcdn.com/tt.svg",
         "population": 1399491,
         "capital": "Port of Spain"
     },
     {
         "name": "Guyana",
+        "cca2": "GY",
         "flag": "https://flagcdn.com/gy.svg",
         "population": 786559,
         "capital": "Georgetown"
     },
     {
         "name": "Timor-Leste",
+        "cca2": "TL",
         "flag": "https://flagcdn.com/tl.svg",
         "population": 1318442,
         "capital": "Dili"
     },
     {
         "name": "Vietnam",
+        "cca2": "VN",
         "flag": "https://flagcdn.com/vn.svg",
         "population": 97338583,
         "capital": "Hanoi"
     },
     {
         "name": "Uruguay",
+        "cca2": "UY",
         "flag": "https://flagcdn.com/uy.svg",
         "population": 3473727,
         "capital": "Montevideo"
     },
     {
         "name": "Vatican City",
+        "cca2": "VA",
         "flag": "https://flagcdn.com/va.svg",
         "population": 451,
         "capital": "Vatican City"
     },
     {
         "name": "Hong Kong",
+        "cca2": "HK",
         "flag": "https://flagcdn.com/hk.svg",
         "population": 7500700,
         "capital": "City of Victoria"
     },
     {
         "name": "Austria",
+        "cca2": "AT",
         "flag": "https://flagcdn.com/at.svg",
         "population": 8917205,
         "capital": "Vienna"
     },
     {
         "name": "Antigua and Barbuda",
+        "cca2": "AG",
         "flag": "https://flagcdn.com/ag.svg",
         "population": 97928,
         "capital": "Saint John's"
     },
     {
         "name": "Turkmenistan",
+        "cca2": "TM",
         "flag": "https://flagcdn.com/tm.svg",
         "population": 6031187,
         "capital": "Ashgabat"
     },
     {
         "name": "Mozambique",
+        "cca2": "MZ",
         "flag": "https://flagcdn.com/mz.svg",
         "population": 31255435,
         "capital": "Maputo"
     },
     {
         "name": "Panama",
+        "cca2": "PA",
         "flag": "https://flagcdn.com/pa.svg",
         "population": 4314768,
         "capital": "Panama City"
     },
     {
         "name": "Micronesia",
+        "cca2": "FM",
         "flag": "https://flagcdn.com/fm.svg",
         "population": 115021,
         "capital": "Palikir"
     },
     {
         "name": "Ireland",
+        "cca2": "IE",
         "flag": "https://flagcdn.com/ie.svg",
         "population": 4994724,
         "capital": "Dublin"
     },
     {
         "name": "Cura\u00e7ao",
+        "cca2": "CW",
         "flag": "https://flagcdn.com/cw.svg",
         "population": 155014,
         "capital": "Willemstad"
     },
     {
         "name": "French Guiana",
+        "cca2": "GF",
         "flag": "https://flagcdn.com/gf.svg",
         "population": 254541,
         "capital": "Cayenne"
     },
     {
         "name": "Norway",
+        "cca2": "NO",
         "flag": "https://flagcdn.com/no.svg",
         "population": 5379475,
         "capital": "Oslo"
     },
     {
         "name": "\u00c5land Islands",
+        "cca2": "AX",
         "flag": "https://flagcdn.com/ax.svg",
         "population": 29458,
         "capital": "Mariehamn"
     },
     {
         "name": "Central African Republic",
+        "cca2": "CF",
         "flag": "https://flagcdn.com/cf.svg",
         "population": 4829764,
         "capital": "Bangui"
     },
     {
         "name": "Burkina Faso",
+        "cca2": "BF",
         "flag": "https://flagcdn.com/bf.svg",
         "population": 20903278,
         "capital": "Ouagadougou"
     },
     {
         "name": "Eritrea",
+        "cca2": "ER",
         "flag": "https://flagcdn.com/er.svg",
         "population": 5352000,
         "capital": "Asmara"
     },
     {
         "name": "Tanzania",
+        "cca2": "TZ",
         "flag": "https://flagcdn.com/tz.svg",
         "population": 59734213,
         "capital": "Dodoma"
     },
     {
         "name": "South Korea",
+        "cca2": "KR",
         "flag": "https://flagcdn.com/kr.svg",
         "population": 51780579,
         "capital": "Seoul"
     },
     {
         "name": "Jordan",
+        "cca2": "JO",
         "flag": "https://flagcdn.com/jo.svg",
         "population": 10203140,
         "capital": "Amman"
     },
     {
         "name": "Mauritania",
+        "cca2": "MR",
         "flag": "https://flagcdn.com/mr.svg",
         "population": 4649660,
         "capital": "Nouakchott"
     },
     {
         "name": "Lithuania",
+        "cca2": "LT",
         "flag": "https://flagcdn.com/lt.svg",
         "population": 2794700,
         "capital": "Vilnius"
     },
     {
         "name": "United States Minor Outlying Islands",
+        "cca2": "UM",
         "flag": "https://flagcdn.com/um.svg",
         "population": 300,
         "capital": "Washington DC"
     },
     {
         "name": "Slovakia",
+        "cca2": "SK",
         "flag": "https://flagcdn.com/sk.svg",
         "population": 5458827,
         "capital": "Bratislava"
     },
     {
         "name": "Angola",
+        "cca2": "AO",
         "flag": "https://flagcdn.com/ao.svg",
         "population": 32866268,
         "capital": "Luanda"
     },
     {
         "name": "Kazakhstan",
+        "cca2": "KZ",
         "flag": "https://flagcdn.com/kz.svg",
         "population": 18754440,
         "capital": "Nur-Sultan"
     },
     {
         "name": "Moldova",
+        "cca2": "MD",
         "flag": "https://flagcdn.com/md.svg",
         "population": 2617820,
         "capital": "Chi\u0219in\u0103u"
     },
     {
         "name": "Mali",
+        "cca2": "ML",
         "flag": "https://flagcdn.com/ml.svg",
         "population": 20250834,
         "capital": "Bamako"
     },
     {
         "name": "Falkland Islands",
+        "cca2": "FK",
         "flag": "https://flagcdn.com/fk.svg",
         "population": 2563,
         "capital": "Stanley"
     },
     {
         "name": "Armenia",
+        "cca2": "AM",
         "flag": "https://flagcdn.com/am.svg",
         "population": 2963234,
         "capital": "Yerevan"
     },
     {
         "name": "Samoa",
+        "cca2": "WS",
         "flag": "https://flagcdn.com/ws.svg",
         "population": 198410,
         "capital": "Apia"
     },
     {
         "name": "Jersey",
+        "cca2": "JE",
         "flag": "https://flagcdn.com/je.svg",
         "population": 100800,
         "capital": "Saint Helier"
     },
     {
         "name": "Japan",
+        "cca2": "JP",
         "flag": "https://flagcdn.com/jp.svg",
         "population": 125836021,
         "capital": "Tokyo"
     },
     {
         "name": "Bolivia",
+        "cca2": "BO",
         "flag": "https://flagcdn.com/bo.svg",
         "population": 11673029,
         "capital": "Sucre"
     },
     {
         "name": "Chile",
+        "cca2": "CL",
         "flag": "https://flagcdn.com/cl.svg",
         "population": 19116209,
         "capital": "Santiago"
     },
     {
         "name": "United States",
+        "cca2": "US",
         "flag": "https://flagcdn.com/us.svg",
         "population": 329484123,
         "capital": "Washington, D.C."
     },
     {
         "name": "Saint Vincent and the Grenadines",
+        "cca2": "VC",
         "flag": "https://flagcdn.com/vc.svg",
         "population": 110947,
         "capital": "Kingstown"
     },
     {
         "name": "Bermuda",
+        "cca2": "BM",
         "flag": "https://flagcdn.com/bm.svg",
         "population": 63903,
         "capital": "Hamilton"
     },
     {
         "name": "Seychelles",
+        "cca2": "SC",
         "flag": "https://flagcdn.com/sc.svg",
         "population": 98462,
         "capital": "Victoria"
     },
     {
         "name": "British Indian Ocean Territory",
+        "cca2": "IO",
         "flag": "https://flagcdn.com/io.svg",
         "population": 3000,
         "capital": "Diego Garcia"
     },
     {
         "name": "Guatemala",
+        "cca2": "GT",
         "flag": "https://flagcdn.com/gt.svg",
         "population": 16858333,
         "capital": "Guatemala City"
     },
     {
         "name": "Ecuador",
+        "cca2": "EC",
         "flag": "https://flagcdn.com/ec.svg",
         "population": 17643060,
         "capital": "Quito"
     },
     {
         "name": "Martinique",
+        "cca2": "MQ",
         "flag": "https://flagcdn.com/mq.svg",
         "population": 378243,
         "capital": "Fort-de-France"
     },
     {
         "name": "Tajikistan",
+        "cca2": "TJ",
         "flag": "https://flagcdn.com/tj.svg",
         "population": 9537642,
         "capital": "Dushanbe"
     },
     {
         "name": "Malta",
+        "cca2": "MT",
         "flag": "https://flagcdn.com/mt.svg",
         "population": 525285,
         "capital": "Valletta"
     },
     {
         "name": "Gambia",
+        "cca2": "GM",
         "flag": "https://flagcdn.com/gm.svg",
         "population": 2416664,
         "capital": "Banjul"
     },
     {
         "name": "Nigeria",
+        "cca2": "NG",
         "flag": "https://flagcdn.com/ng.svg",
         "population": 206139587,
         "capital": "Abuja"
     },
     {
         "name": "Bahamas",
+        "cca2": "BS",
         "flag": "https://flagcdn.com/bs.svg",
         "population": 393248,
         "capital": "Nassau"
     },
     {
         "name": "Kosovo",
+        "cca2": "XK",
         "flag": "https://flagcdn.com/xk.svg",
         "population": 1775378,
         "capital": "Pristina"
     },
     {
         "name": "Kuwait",
+        "cca2": "KW",
         "flag": "https://flagcdn.com/kw.svg",
         "population": 4270563,
         "capital": "Kuwait City"
     },
     {
         "name": "Maldives",
+        "cca2": "MV",
         "flag": "https://flagcdn.com/mv.svg",
         "population": 540542,
         "capital": "Mal\u00e9"
     },
     {
         "name": "South Sudan",
+        "cca2": "SS",
         "flag": "https://flagcdn.com/ss.svg",
         "population": 11193729,
         "capital": "Juba"
     },
     {
         "name": "Iran",
+        "cca2": "IR",
         "flag": "https://flagcdn.com/ir.svg",
         "population": 83992953,
         "capital": "Tehran"
     },
     {
         "name": "Albania",
+        "cca2": "AL",
         "flag": "https://flagcdn.com/al.svg",
         "population": 2837743,
         "capital": "Tirana"
     },
     {
         "name": "Brazil",
+        "cca2": "BR",
         "flag": "https://flagcdn.com/br.svg",
         "population": 212559409,
         "capital": "Bras\u00edlia"
     },
     {
         "name": "Serbia",
+        "cca2": "RS",
         "flag": "https://flagcdn.com/rs.svg",
         "population": 6908224,
         "capital": "Belgrade"
     },
     {
         "name": "Belize",
+        "cca2": "BZ",
         "flag": "https://flagcdn.com/bz.svg",
         "population": 397621,
         "capital": "Belmopan"
     },
     {
         "name": "Myanmar",
+        "cca2": "MM",
         "flag": "https://flagcdn.com/mm.svg",
         "population": 54409794,
         "capital": "Naypyidaw"
     },
     {
         "name": "Bhutan",
+        "cca2": "BT",
         "flag": "https://flagcdn.com/bt.svg",
         "population": 771612,
         "capital": "Thimphu"
     },
     {
         "name": "Venezuela",
+        "cca2": "VE",
         "flag": "https://flagcdn.com/ve.svg",
         "population": 28435943,
         "capital": "Caracas"
     },
     {
         "name": "Liberia",
+        "cca2": "LR",
         "flag": "https://flagcdn.com/lr.svg",
         "population": 5057677,
         "capital": "Monrovia"
     },
     {
         "name": "Jamaica",
+        "cca2": "JM",
         "flag": "https://flagcdn.com/jm.svg",
         "population": 2961161,
         "capital": "Kingston"
     },
     {
         "name": "Poland",
+        "cca2": "PL",
         "flag": "https://flagcdn.com/pl.svg",
         "population": 37950802,
         "capital": "Warsaw"
     },
     {
         "name": "Cayman Islands",
+        "cca2": "KY",
         "flag": "https://flagcdn.com/ky.svg",
         "population": 65720,
         "capital": "George Town"
     },
     {
         "name": "Brunei",
+        "cca2": "BN",
         "flag": "https://flagcdn.com/bn.svg",
         "population": 437483,
         "capital": "Bandar Seri Begawan"
     },
     {
         "name": "Comoros",
+        "cca2": "KM",
         "flag": "https://flagcdn.com/km.svg",
         "population": 869595,
         "capital": "Moroni"
     },
     {
         "name": "Guam",
+        "cca2": "GU",
         "flag": "https://flagcdn.com/gu.svg",
         "population": 168783,
         "capital": "Hag\u00e5t\u00f1a"
     },
     {
         "name": "Tonga",
+        "cca2": "TO",
         "flag": "https://flagcdn.com/to.svg",
         "population": 105697,
         "capital": "Nuku'alofa"
     },
     {
         "name": "Kiribati",
+        "cca2": "KI",
         "flag": "https://flagcdn.com/ki.svg",
         "population": 119446,
         "capital": "South Tarawa"
     },
     {
         "name": "Ghana",
+        "cca2": "GH",
         "flag": "https://flagcdn.com/gh.svg",
         "population": 31072945,
         "capital": "Accra"
     },
     {
         "name": "Chad",
+        "cca2": "TD",
         "flag": "https://flagcdn.com/td.svg",
         "population": 16425859,
         "capital": "N'Djamena"
     },
     {
         "name": "Zimbabwe",
+        "cca2": "ZW",
         "flag": "https://flagcdn.com/zw.svg",
         "population": 14862927,
         "capital": "Harare"
     },
     {
         "name": "Saint Martin",
+        "cca2": "MF",
         "flag": "https://flagcdn.com/mf.svg",
         "population": 38659,
         "capital": "Marigot"
     },
     {
         "name": "Mongolia",
+        "cca2": "MN",
         "flag": "https://flagcdn.com/mn.svg",
         "population": 3278292,
         "capital": "Ulan Bator"
     },
     {
         "name": "Portugal",
+        "cca2": "PT",
         "flag": "https://flagcdn.com/pt.svg",
         "population": 10305564,
         "capital": "Lisbon"
     },
     {
         "name": "American Samoa",
+        "cca2": "AS",
         "flag": "https://flagcdn.com/as.svg",
         "population": 55197,
         "capital": "Pago Pago"
     },
     {
         "name": "Republic of the Congo",
+        "cca2": "CG",
         "flag": "https://flagcdn.com/cg.svg",
         "population": 5657000,
         "capital": "Brazzaville"
     },
     {
         "name": "Belgium",
+        "cca2": "BE",
         "flag": "https://flagcdn.com/be.svg",
         "population": 11555997,
         "capital": "Brussels"
     },
     {
         "name": "Israel",
+        "cca2": "IL",
         "flag": "https://flagcdn.com/il.svg",
         "population": 9216900,
         "capital": "Jerusalem"
     },
     {
         "name": "New Zealand",
+        "cca2": "NZ",
         "flag": "https://flagcdn.com/nz.svg",
         "population": 5084300,
         "capital": "Wellington"
     },
     {
         "name": "Nicaragua",
+        "cca2": "NI",
         "flag": "https://flagcdn.com/ni.svg",
         "population": 6624554,
         "capital": "Managua"
     },
     {
         "name": "Anguilla",
+        "cca2": "AI",
         "flag": "https://flagcdn.com/ai.svg",
         "population": 13452,
         "capital": "The Valley"

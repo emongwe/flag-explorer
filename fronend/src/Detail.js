@@ -9,7 +9,7 @@ function Detail() {
   const API_URL = process.env.REACT_APP_API_URL || 'http://127.0.0.1:5000';
 
   useEffect(() => {
-    fetch(`${API_URL}/countries?name=${countryName}`) // Country API endpoint
+    fetch(`${API_URL}/countries/${countryName}`) // Country API endpoint
       .then(res => res.json())
       .then(data => setCountryDetails(data))
       .catch(err => setError(err))
@@ -22,9 +22,15 @@ function Detail() {
 
   return (
     <div>
-      <h1>{countryDetails.name}</h1>
-      <p>Population: {countryDetails.population}</p>
-      <p>Capital: {countryDetails.capital}</p>
+      <div className="country-header">
+          <h1>Country Details</h1>
+      </div>
+      <div className='country-details'>
+        <h1>{countryDetails.name}</h1>
+        <p>Population: {countryDetails.population}</p>
+        <p>Capital: {countryDetails.capital}</p>
+        <button onClick={() => window.history.back()}>Go Back</button>
+      </div>
     </div>
   );
 }

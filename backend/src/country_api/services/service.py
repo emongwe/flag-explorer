@@ -21,7 +21,7 @@ class CountryService:
 
     def get_all_countries(self):
         countries = self.data_source.get_all_countries()
-        return [Country(c["name"], c["flag"]) for c in countries]
+        return [Country(c["name"], c["cca2"], c["flag"],c["population"],c["capital"]) for c in countries]
 
     def get_country_details(self, name):
         country_data = self.data_source.get_country_by_name(name)
