@@ -8,7 +8,7 @@
 #------------------------------------------------------------------------------------------------------#
 
 import pytest
-from app import create_app  # Import your create_app function
+from ..app import create_app
 from data_access import JsonFileDataSource, RestCountriesAPI
 from services import CountryService
 from controllers import CountryController
@@ -46,7 +46,6 @@ def country_service(mock_data_source):
 @pytest.fixture
 def country_controller(country_service):
     return CountryController(country_service)
-
 
 @pytest.fixture
 def mock_external_api(mocker):
