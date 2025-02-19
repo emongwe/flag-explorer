@@ -5,7 +5,7 @@
 import pytest
 import os
 import json
-from ..src.country_api.data_access import JsonFileDataSource, RestCountriesAPI
+from src.country_api.models.data_access import JsonFileDataSource, RestCountriesAPI
 from unittest.mock import patch, mock_open
 
 @pytest.fixture

@@ -14,7 +14,7 @@
 import requests
 import json
 import os
-from .entities import Country
+from ..services.entity import Country
 
 class RestCountriesAPI: 
     BASE_URL = os.getenv("RESTCOUNTRIES_API_URL", "https://restcountries.com/v3.1")

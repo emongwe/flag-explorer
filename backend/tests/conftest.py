@@ -15,9 +15,9 @@ sys.path.insert(0, project_root)
 
 import pytest
 from country_api.app import create_app
-from country_api.data_access import JsonFileDataSource, RestCountriesAPI
-from country_api.services import CountryService
-from country_api.controllers import CountryController
+from country_api.models.data_access import JsonFileDataSource, RestCountriesAPI
+from country_api.services.service import CountryService
+from country_api.controllers.controller import CountryController
 
 @pytest.fixture
 def app():

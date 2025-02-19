@@ -10,7 +10,7 @@
 # with the service layer to provide data to the client.
 # ----------------------------------------------------------------------------------------------------#
 from flask import jsonify, Blueprint
-from .services import CountryService
+from ..services.service import CountryService
 
 country_bp = Blueprint('country_bp', __name__)
 

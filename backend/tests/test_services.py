@@ -9,8 +9,8 @@
 # --------------------------------------------------------------------------------------------------------#
 
 import pytest
-from ..src.country_api.services import CountryService
-from ..src.country_api.entities import Country
+from src.country_api.services.service import CountryService
+from src.country_api.services.entity import Country
 
 def test_get_all_countries(country_service, test_countries):
     countries = country_service.get_all_countries()
