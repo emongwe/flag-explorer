@@ -15,7 +15,6 @@ class Country:
         self.capital = capital
 
     def to_dict(self):
-        """Converts the Country object to a dictionary (for API responses)."""
         return {
             "name": self.name,
             "flag": self.flag,
