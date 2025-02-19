@@ -1,3 +1,19 @@
+/*
+----------------------------------------------HOME COMPONENT------------------------------------------------------
+  Step 1: Import React, useState, useEffect, and Link from react-router-dom
+  Step 2: Create a functional component named Home
+  Step 3: Define the countries, loading, and error states using the useState hook
+  Step 4: Define the API_URL constant with the API endpoint URL
+  Step 5: Use the useEffect hook to fetch the list of countries from the API
+  Step 6: Handle loading and error states for the API request
+  Step 7: Render the list of countries as links to the detail page
+  Step 8: Export the Home component as the default export
+  Step 9: The Home component is responsible for displaying the list of countries as flags.
+  Step 10: The Home component fetches the list of countries from the API using the useEffect hook.
+  Step 11: The loading and error states are used to handle the loading and error states of the API request.
+  Step 12: The list of countries is displayed as links to the detail page when the API request is successful.
+-----------------------------------------------------------------------------------------------------------------
+*/
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
