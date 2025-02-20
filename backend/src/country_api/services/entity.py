@@ -8,12 +8,12 @@
 # used in the application.
 #-----------------------------------------------------------------------------------------------#
 class Country:
-    def __init__(self, name, cca2, flag, population=None, capital=None):
+    def __init__(self, name, cca2, flag, capital, population):
         self.name = name
         self.cca2 = cca2
         self.flag = flag
-        self.population = population
         self.capital = capital
+        self.population = population
 
     def to_dict(self):
         return {

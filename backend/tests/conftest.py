@@ -14,10 +14,12 @@ project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.insert(0, project_root)
 
 import pytest
+from unittest.mock import Mock
 from country_api.app import create_app
 from country_api.models.data_access import JsonFileDataSource, RestCountriesAPI
 from country_api.services.service import CountryService
 from country_api.controllers.controller import CountryController
+from src.country_api.services.entity import Country
 
 @pytest.fixture
 def app():
@@ -32,16 +34,18 @@ def client(app):
 @pytest.fixture
 def test_countries():
     return [
-        {"name": "Test Country 1", "flag": "🚩", "population": 1000, "capital": "Test Capital 1"},
-        {"name": "Test Country 2", "flag": "🏳️", "population": 2000, "capital": "Test Capital 2"}
+        {"name": "Test Country 1", "cca2" : "SG", "flag": "🚩", "population": 1000, "capital": "Test Capital 1"},
+        {"name": "Test Country 2", "cca2" : "DG", "flag": "🏳️", "population": 2000, "capital": "Test Capital 2"}
     ]
 @pytest.fixture
-def mock_data_source(test_countries, mocker):
-    mock_source = mocker.MagicMock(spec=JsonFileDataSource)
-    mock_source.get_all_countries.return_value = test_countries
-    mock_source.get_country_by_name.side_effect = lambda name: next((c for c in test_countries if c["name"] == name), None)
-    mock_source.refresh_data.return_value = True
-    return mock_source
+def mock_data_source(test_countries):
+    mock = Mock()
+    mock.get_all_countries.return_value = [
+        Country(**country) for country in test_countries
+    ]
+    mock.get_country_details.return_value = Country(**test_countries[0])
+    mock.refresh_data.return_value = True
+    return mock
 
 @pytest.fixture
 def country_service(mock_data_source):

@@ -15,17 +15,24 @@ import json
 
 def test_get_all_countries_controller(country_controller):
     response = country_controller.get_all_countries()
-    assert response.status_code == 200  # No need for app context
+    assert response.status_code == 200
     data = json.loads(response.data)
     assert len(data) == 2
     assert data[0]["name"] == "Test Country 1"
+    assert data[0]["cca2"] == "SG"
+    assert data[0]["flags"] == "🚩"
+    assert data[0]["population"] == 1000
+    assert data[0]["capital"] == "Test Capital 1"
 
 def test_get_country_details_controller(country_controller):
     response = country_controller.get_country_details("Test Country 1")
     assert response.status_code == 200
     data = json.loads(response.data)
     assert data["name"] == "Test Country 1"
+    assert data["cca2"] == "SG"
+    assert data["flags"] == "🚩"
     assert data["population"] == 1000
+    assert data["capital"] == "Test Capital 1"
 
     response_not_found = country_controller.get_country_details("Nonexistent")
     assert response_not_found.status_code == 404

@@ -52,11 +52,11 @@ def test_json_data_source_load_no_file(temp_data_file, mock_external_api):
 def test_rest_countries_api_fetch_success(mock_get):
     mock_response = mock_get.return_value
     mock_response.raise_for_status.return_value = None
-    mock_response.json.return_value = [{"name": {"common": "Test Country"}}]
+    mock_response.json.return_value = [{"name": "Test Country"}]
 
     api = RestCountriesAPI()
     data = api.fetch_all_countries()
-    assert data == [{"name": {"common": "Test Country"}}]
+    assert data == [{"name": "Test Country"}]
     mock_get.assert_called_once_with("https://restcountries.com/v3.1/all")
 
 
@@ -73,8 +73,8 @@ def test_rest_countries_api_fetch_failure(mock_get):
 def test_refresh_data_success(temp_data_file, mock_external_api, test_countries):
     # Mock the external API to return test data.
     mock_external_api.fetch_all_countries.return_value = [
-        {"name": {"common": "Test Country 1"}, "flags": {"svg": "🚩"}, "population": 1000, "capital": ["Test Capital 1"]},
-        {"name": {"common": "Test Country 2"}, "flags": {"svg": "🏳️"}, "population": 2000, "capital": ["Test Capital 2"]},
+        {"name": "Test Country 1", "cca2" : "SG", "flags": "🚩", "population": 1000, "capital": "Test Capital 1"},
+        {"name": "Test Country 2", "cca2" : "DG", "flags": "🏳️", "population": 2000, "capital": "Test Capital 2"},
     ]
     data_source = JsonFileDataSource(filename=temp_data_file, api_client=mock_external_api)
     assert data_source.refresh_data() == True 
